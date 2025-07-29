@@ -143,3 +143,7 @@ Los clientes no vigentes tienden a haber tenido relaciones contractuales más la
 
 **Finalmente:**
 🧩 Este análisis en la compañia TelecomX_LTAM puede servir para: Identificar perfiles de riesgo (clientes nuevos y de bajo gasto). Diseñar estrategias de retención más dirigidas.
+
+Realizado por: Starleen Gaviria Medina, Estudiante de Alura Latam, Ciencia de datos.
+
+www.linkedin.com/in/starleen-gaviria-sig
